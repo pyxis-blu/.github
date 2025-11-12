@@ -1,4 +1,4 @@
-# 🌌 PyxisBlu
+# PyxisBlu
 
 **Empowering young innovators through hands-on learning and technology.**
 
